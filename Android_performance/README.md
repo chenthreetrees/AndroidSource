@@ -131,6 +131,9 @@ http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401107957&idx=2&sn=4b95bcfe
 2.使用Android studio分析内存泄露
 http://www.jianshu.com/p/c49f778e7acf
 
+#第七：一些源码分析的文章，只会用还不够，还要知道为什么
 
+1.android view设置selecter原码分析
+http://blog.sina.com.cn/s/blog_7607235f01016rhd.html
 
 
